@@ -3,8 +3,8 @@
 	/*box-sizing: border-box;*/
 }
 body{
-	background-color: #61122f;
-	color: #fff;
+	background-color:grey;
+	color:black;
 	font-size: 16px;
 	font-family: 'Oxygen', sans-serif;
 }
@@ -16,7 +16,7 @@ body{
 }
 .navbar-default .navbar-brand{
 	font-size: 2em;
-	color: #ffffff;
+	color: whitesmoke;
 }
 
 .navbar-default .navbar-collapse{
@@ -57,7 +57,7 @@ body{
 /*** Large devices only ***/
 @media (min-width: 1200px) {
 	.col-lg-4{
-		width: 32.33333%;
+		width: 100%;
 	}
 }
 
@@ -74,7 +74,7 @@ body{
 		margin-top: 10px;
 	}
 	.col-md-6{
-		width: 48%;
+		width: 100%;
 	}
 	.internal-link{
 		margin-top: 10px;
